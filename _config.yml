@@ -1,0 +1,5 @@
+title: "My GitHub Blog"
+description: "Dokumentasi semua artikel saya"
+baseurl: "" # kosongkan jika ini laman utama
+url: "https://lonurhazve.github.io" # Gantikan dengan username GitHub anda
+theme: minima # Tema asas Jekyll
